@@ -1,0 +1,23 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Node / React / Vite
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+*.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
